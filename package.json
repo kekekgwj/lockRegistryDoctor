@@ -1,5 +1,5 @@
 {
-  "name": "lockregistrydoctor",
+  "name": "lock-registry-doctor",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
