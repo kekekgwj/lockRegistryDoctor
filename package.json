@@ -1,0 +1,15 @@
+{
+  "name": "lockregistrydoctor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "lockregistrydoctor": "./index.js"
+  },
+  "keywords": ["npm", "lock", "registry", "doctor"],
+  "author": "",
+  "license": "ISC",
+  "description": "fix deprectated registry in lock file "
+}
